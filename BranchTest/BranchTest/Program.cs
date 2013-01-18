@@ -6,7 +6,7 @@ namespace BranchTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initial commit");
+            Console.WriteLine("02 - Edit after branch.");
             Console.ReadKey();
         }
     }
